@@ -1,0 +1,15 @@
+Veri tabanımızın dosyaları burada "stokveritabani" ismli
+oluşturdugunuz databasenin içine içe aktar diyerek aktarmanız gerekiyor.
+
+veri tabanı olarak "phpMyAdmin" kullandık.
+
+Web sitesine girdiğinizde admin giriş yerine kayıtlı kişiler:
+
+kulanıcı Adı: Eren 
+Şifre:12345
+kulanıcı Adı: Kübra 
+Şifre:12345
+
+Bazı eklentiler siteye sorun çıkartabiliyor, sitede sorun çıkarsa
+eklentileri devre dışı bırakıp tekrar deneyin.
+
