@@ -6,12 +6,11 @@ Veri tabanı olarak "phpMyAdmin" kullandık.
 
 Web sitesine girdiğinizde admin giriş yerine kayıtlı kişiler:
 
-kulanıcı Adı: Eren 
+Kullanıcı Adı: Eren 
 Şifre: 12345
-kulanıcı Adı: Kübra 
+Kullanıcı Adı: Kübra 
 Şifre: 12345
 
-Bazı eklentiler siteye sorun çıkartabiliyor, sitede sorun çıkarsa
-eklentileri devre dışı bırakıp tekrar deneyin.
+Bazı eklentiler siteye sorun çıkartabiliyor, sitede sorun çıkarsa eklentileri devre dışı bırakıp tekrar deneyin.
 
 Xampp'in htdocs klasörüne atarak çalıştırmayı deneyiniz.
